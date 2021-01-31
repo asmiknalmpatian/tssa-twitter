@@ -1,6 +1,8 @@
-## Hello partypeople
+## Hello world
 
-Place your ad
+This tutorial on topic modeling and sentiment analysis intends to help you kick-starting your own text mining projects.
+We will work on a corpus of Twitter data by German MPs.
+The tutorial covers two approaches: roll up your sleeves for some handcrafted R code, or step up your game with BERT in Python.
 
 ### Whazzup
 
