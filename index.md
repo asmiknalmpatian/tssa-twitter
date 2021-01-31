@@ -7,5 +7,5 @@ Place your ad
 This is supposed to be a chunk of R code
 
 ```r
-foo <- function(x) {foo]
+foo <- function(x) {x + 1}
 ```
