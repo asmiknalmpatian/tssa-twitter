@@ -1,6 +1,6 @@
 ## Hello world
 
-This tutorial on \textbf{topic modeling} and \textbf{sentiment analysis} intends to show you around the grounds in the wide realm of text analysis.
+This tutorial on **topic modeling** and **sentiment analysis** intends to show you around the grounds in the wide realm of text analysis.
 
 We will work on a corpus of Twitter data by German MPs.
 
@@ -8,7 +8,7 @@ The tutorial covers two approaches: roll up your sleeves for some handcrafted R 
 
 Feel free to reach out to us anytime via GitHub: @asmiknalmpatian and @lisa-wm.
 
-\textbf{Happy mining!}
+**Happy mining!**
 
 ### Whazzup
 
