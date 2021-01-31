@@ -1,3 +1,3 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 title: Topic-specific sentiment analysis for German-language Twitter data
 description: A tutorial on topic modeling and sentiment analysis - go easy with handcrafted R code, or take first steps with BERT in Python
