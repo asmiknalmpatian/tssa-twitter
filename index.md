@@ -1,3 +1,6 @@
+![GitHub Logo](D:/UNI/01_Master/3. Semester/Consulting/Tutorial/Logo_Consulting.JPG)
+Format: ![Alt Text](url)
+
 ## Hello world
 
 This tutorial on **topic modeling** and **sentiment analysis** intends to show you around the grounds in the wide realm of text analysis.
